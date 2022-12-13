@@ -2,13 +2,16 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>http://Paulina-N.github.io/posts/first/</loc>
-    <lastmod>2022-12-14T00:34:26+02:00</lastmod>
+    <loc>http://Paulina-N.github.io/posts/second/</loc>
+    <lastmod>2022-12-14T01:01:00+02:00</lastmod>
   </url><url>
     <loc>http://Paulina-N.github.io/</loc>
-    <lastmod>2022-12-14T00:34:26+02:00</lastmod>
+    <lastmod>2022-12-14T01:01:00+02:00</lastmod>
   </url><url>
     <loc>http://Paulina-N.github.io/posts/</loc>
+    <lastmod>2022-12-14T01:01:00+02:00</lastmod>
+  </url><url>
+    <loc>http://Paulina-N.github.io/posts/first/</loc>
     <lastmod>2022-12-14T00:34:26+02:00</lastmod>
   </url><url>
     <loc>http://Paulina-N.github.io/categories/</loc>
